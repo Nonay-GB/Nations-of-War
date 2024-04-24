@@ -1,0 +1,363 @@
+[
+  {
+    "name": "The Conservative Party",
+    "text": "The Conservative Party <:verified:999757395016298647>",
+    "ideology": "Democratic",
+    "owner": "540508809341304842",
+    "nation": [
+      "Pacifidian Empire",
+      "Greater Feresian Empire",
+      "Vladmyria",
+      "Duskveil",
+      "Kingdom of Prussia"
+    ],
+    "homeSecretary": "None",
+    "foreignMinister": "None",
+    "chancellorExchequer": "None",
+    "healthMinister": "None",
+    "defenceMinister": "None"
+  },
+  {
+    "name": "French Workers Party",
+    "text": "French Workers Party",
+    "ideology": "Communist",
+    "owner": "746000006997213267",
+    "nation": [
+      "The First French Empire"
+    ],
+    "homeSecretary": {
+      "name": "Ryan Lucas",
+      "level": 10,
+      "skills": [
+        "Defence",
+        "Homeland Security",
+        "Offense",
+        "Counter-Terrorism"
+      ]
+    },
+    "foreignMinister": {
+      "name": "Latia Lancaster",
+      "level": 10,
+      "skills": [
+        "Strict Economic Policies",
+        "Economics",
+        "Spokeswoman",
+        "Diplomacy",
+        "Motivational Speaker"
+      ]
+    },
+    "chancellorExchequer": {
+      "name": "Paul Blart",
+      "level": 6,
+      "skills": [
+        "Homeland Security",
+        "Defence",
+        "Crisis Action",
+        "Motivational Speaker"
+      ]
+    },
+    "healthMinister": {
+      "name": "Rita Oranya",
+      "level": 5,
+      "skills": [
+        "Economics",
+        "Crisis Action",
+        "Motivational Speaker"
+      ]
+    },
+    "defenceMinister": {
+      "name": "Jared Lancaster",
+      "level": 5,
+      "skills": [
+        "Offense",
+        "Counter-Terrorism"
+      ]
+    }
+  },
+  {
+    "name": "Asnorian Democrats",
+    "text": "Asnorian Democrats",
+    "ideology": "Democratic",
+    "owner": "843492199031242812",
+    "nation": [
+      "Asnor"
+    ],
+    "homeSecretary": "None",
+    "foreignMinister": "None",
+    "chancellorExchequer": "None",
+    "healthMinister": "None",
+    "defenceMinister": "None"
+  },
+  {
+    "name": "The Royalist Party",
+    "text": "The Royalist Party <:verified:999757395016298647>",
+    "ideology": "Democratic",
+    "owner": "745460816026796112",
+    "nation": [
+      "Greater Feresian Empire",
+      "Pacifidian Empire",
+      "Vladmyria",
+      "Duskveil",
+      "Kingdom of Prussia"
+    ],
+    "homeSecretary": "None",
+    "foreignMinister": "None",
+    "chancellorExchequer": "None",
+    "healthMinister": "None",
+    "defenceMinister": "None"
+  },
+  {
+    "name": "The Toarties",
+    "text": "The Toarties",
+    "ideology": "Democratic",
+    "owner": "495674442098278401",
+    "nation": [
+      "County Toart",
+      "Pacifidian Empire",
+      "Kingdom of Prussia"
+    ],
+    "homeSecretary": "None",
+    "foreignMinister": {
+      "name": "Ryan Lucas",
+      "level": 10,
+      "skills": [
+        "Defence",
+        "Homeland Security",
+        "Offense",
+        "Counter-Terrorism"
+      ]
+    },
+    "chancellorExchequer": {
+      "name": "Jacquees Laha",
+      "level": 3,
+      "skills": [
+        "Diplomacy",
+        "Crisis Action",
+        "Economics"
+      ]
+    },
+    "healthMinister": "None",
+    "defenceMinister": "None"
+  },
+  {
+    "name": "The Social-Nationalist Party",
+    "text": "The Social-Nationalist Party <:verified:999757395016298647>",
+    "ideology": "Democratic",
+    "owner": "865278672517070858",
+    "nation": [
+      "Greater Feresian Empire",
+      "Pacifidian Empire",
+      "Vladmyria",
+      "Duskveil",
+      "Kingdom of Prussia"
+    ],
+    "homeSecretary": "None",
+    "foreignMinister": "None",
+    "chancellorExchequer": "None",
+    "healthMinister": "None",
+    "defenceMinister": "None"
+  },
+  {
+    "name": "The Workers Party",
+    "text": "The Workers Party <:verified:999757395016298647>",
+    "ideology": "Fascist",
+    "owner": "360052979484852244",
+    "nation": [
+      "United Empires",
+      "Greater Feresian Empire",
+      "Pacifidian Empire",
+      "Vladmyria",
+      "Duskveil",
+      "Kingdom of Prussia"
+    ],
+    "homeSecretary": "None",
+    "foreignMinister": "None",
+    "chancellorExchequer": "None",
+    "healthMinister": "None",
+    "defenceMinister": "None"
+  },
+  {
+    "name": "Vladmyrian Conservative Party",
+    "text": "Vladmyrian Conservative Party",
+    "ideology": "Democratic",
+    "owner": "563698355809681409",
+    "nation": [
+      "Vladmyria"
+    ],
+    "homeSecretary": "None",
+    "foreignMinister": "None",
+    "chancellorExchequer": "None",
+    "healthMinister": "None",
+    "defenceMinister": "None"
+  },
+  {
+    "name": "Aisered",
+    "text": "NoFoo",
+    "ideology": "Democratic",
+    "owner": "1171828799176966258",
+    "nation": [
+      "Gallia",
+      "Greater Feresian Empire",
+      "Pacifidian Empire",
+      "Vladmyria"
+    ],
+    "homeSecretary": "None",
+    "foreignMinister": "None",
+    "chancellorExchequer": "None",
+    "healthMinister": "None",
+    "defenceMinister": {
+      "name": "Ryan Lucas",
+      "level": 10,
+      "skills": [
+        "Defence",
+        "Homeland Security",
+        "Offense",
+        "Counter-Terrorism"
+      ]
+    }
+  },
+  {
+    "name": "Labour",
+    "text": "Labour",
+    "ideology": "Democratic",
+    "owner": "789592345753813052",
+    "nation": [
+      "Greater Feresian Empire",
+      "Pacifidian Empire",
+      "Vladmyria",
+      "Duskveil",
+      "Kingdom of Prussia"
+    ],
+    "homeSecretary": "None",
+    "foreignMinister": "None",
+    "chancellorExchequer": "None",
+    "healthMinister": "None",
+    "defenceMinister": "None"
+  },
+  {
+    "name": "Alibi",
+    "text": "Alibi",
+    "ideology": "Fascist",
+    "owner": "724398405517967431",
+    "nation": [
+      "German Empire"
+    ],
+    "homeSecretary": "None",
+    "foreignMinister": "None",
+    "chancellorExchequer": "None",
+    "healthMinister": "None",
+    "defenceMinister": "None"
+  },
+  {
+    "name": "Free Cities Senate",
+    "text": "Free Cities Senate",
+    "ideology": "Democratic",
+    "owner": "1036322560683561012",
+    "nation": [
+      "Free Cities"
+    ],
+    "homeSecretary": "None",
+    "foreignMinister": "None",
+    "chancellorExchequer": "None",
+    "healthMinister": "None",
+    "defenceMinister": "None"
+  },
+  {
+    "name": "BBBP",
+    "text": "BBBP",
+    "ideology": "Communist",
+    "owner": "628757669561499648",
+    "nation": [
+      "Kingdom of Prussia"
+    ],
+    "homeSecretary": "None",
+    "foreignMinister": {
+      "name": "Ryan Lucas",
+      "level": 10,
+      "skills": [
+        "Defence",
+        "Homeland Security",
+        "Offense",
+        "Counter-Terrorism"
+      ]
+    },
+    "chancellorExchequer": "None",
+    "healthMinister": "None",
+    "defenceMinister": "None"
+  },
+  {
+    "name": "Dairy Delinquent's",
+    "text": "Duskveil Democratic party",
+    "ideology": "Democratic",
+    "owner": "720770329575817277",
+    "nation": [
+      "Duskveil"
+    ],
+    "homeSecretary": "None",
+    "foreignMinister": "None",
+    "chancellorExchequer": "None",
+    "healthMinister": "None",
+    "defenceMinister": "None"
+  },
+  {
+    "name": "Kingdom Of Prussia",
+    "text": "Bolsheviks",
+    "ideology": "Democratic",
+    "owner": "904156033159659550",
+    "nation": [
+      "Kingdom of Prussia"
+    ],
+    "homeSecretary": "None",
+    "foreignMinister": "None",
+    "chancellorExchequer": "None",
+    "healthMinister": "None",
+    "defenceMinister": "None"
+  },
+  {
+    "name": "Republic of kreig",
+    "text": "Republic of kreig",
+    "ideology": "Democratic",
+    "owner": "1198777773255311507",
+    "nation": [
+      "Kreig"
+    ],
+    "homeSecretary": "None",
+    "foreignMinister": "None",
+    "chancellorExchequer": "None",
+    "healthMinister": "None",
+    "defenceMinister": "None"
+  },
+  {
+    "name": "The Kingdom Party",
+    "text": "Conservation Party",
+    "ideology": "Democratic",
+    "owner": "841336466676514927",
+    "nation": [
+      "The Legion Kingdom"
+    ],
+    "homeSecretary": "None",
+    "foreignMinister": "None",
+    "chancellorExchequer": "None",
+    "healthMinister": {
+      "name": "Latia Lancaster",
+      "level": 10,
+      "skills": [
+        "Strict Economic Policies",
+        "Economics",
+        "Spokeswoman",
+        "Diplomacy",
+        "Motivational Speaker"
+      ]
+    },
+    "defenceMinister": {
+      "name": "Ryan Lucas",
+      "level": 10,
+      "skills": [
+        "Defence",
+        "Homeland Security",
+        "Offense",
+        "Counter-Terrorism"
+      ]
+    }
+  }
+]

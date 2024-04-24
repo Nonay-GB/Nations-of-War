@@ -1,0 +1,35 @@
+{
+  "name": "discordjs-nonaybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/bot.js",
+    "dev": "nodemon ./src/bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/rest": "^2.0.1",
+    "@discordjs/voice": "^0.16.0",
+    "common-tags": "^1.8.0",
+    "discord-api-types": "^0.37.63",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^13.17.1",
+    "dotenv": "^8.2.0",
+    "easy-json-database": "^1.3.0",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "minecraft-protocol": "^1.45.0",
+    "minecraft-rcon-client": "^2.1.2",
+    "node": "16.6.1",
+    "node-cron": "^3.0.2",
+    "nodemon": "^2.0.7",
+    "rcon-client": "^4.2.4",
+    "yt-search": "^2.10.4",
+    "ytdl-core": "^4.11.4"
+  }
+}

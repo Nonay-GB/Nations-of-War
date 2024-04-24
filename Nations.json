@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Dummy Nation",
+    "ideology": "Democratic",
+    "population": 0,
+    "requestActive": false,
+    "gdp": 0,
+    "forgeAmount": 0,
+    "stability": 89.53382542587164,
+    "color": "#313338",
+    "balance": 0,
+    "debt": 0,
+    "pmi": 0,
+    "growth": 0,
+    "additionalIncome": 0,
+    "investors": 0,
+    "currencyValue": "0.88",
+    "currencyValueLowest": "1.00",
+    "currencyValueHighest": "1.00",
+    "humanDevelopmentIndex": "0.001",
+    "currencyName": "Dummy Dollar",
+    "currencySymbol": "$",
+    "countryOwner": {
+      "id": "540508809341304842",
+      "bot": false,
+      "system": false,
+      "flags": 4194368,
+      "username": "iii_coke_iii",
+      "globalName": "Coke",
+      "discriminator": "0",
+      "avatar": "683db8dfb12912a8a814b120e27b7f69",
+      "avatarDecoration": null,
+      "createdTimestamp": 1548937742315,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "tag": "iii_coke_iii",
+      "avatarURL": "https://cdn.discordapp.com/avatars/540508809341304842/683db8dfb12912a8a814b120e27b7f69.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/540508809341304842/683db8dfb12912a8a814b120e27b7f69.webp"
+    },
+    "researchPoints": 0,
+    "researched": [],
+    "uraniumPlant": 0,
+    "uraniumMine": 0,
+    "uraniumEnriched": 0,
+    "uranium": 0,
+    "labs": 0,
+    "power": 0,
+    "powerType": "None",
+    "enemies": [],
+    "allies": [],
+    "peaceReq": [],
+    "largestIncome": "None",
+    "tradeReq": [
+      {
+        "targetNation": "ASDasd",
+        "item": "test",
+        "value": 1,
+        "quantity": 1,
+        "location": "1",
+        "status": "pending"
+      },
+      {
+        "targetNation": "Debug #2",
+        "item": "games",
+        "value": 1,
+        "quantity": 1,
+        "location": "1",
+        "status": "pending"
+      }
+    ],
+    "activeEffects": [
+      "A New Beginning"
+    ],
+    "activeDeeds": "None"
+  }
+]

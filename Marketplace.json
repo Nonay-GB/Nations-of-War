@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Broken Guitar Gun",
+        "description": "guitar gun that deals damage to structures from the mythical weapons clorophyte hosted",
+        "price": 1.99
+      },
+      {
+        "name": "supreme bag from old drug dealer",
+        "description": "from the old drug dealer npc that sold supreme stuff",
+        "price": 0.99
+      },
+      {
+        "name": "5x leopard tanks before they got blacklisted",
+        "description": "leopard tanks produced before they got blacklisted",
+        "price": 4.99
+      }
+]

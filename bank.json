@@ -1,0 +1,134 @@
+{
+  "720770329575817277": {
+    "savings": {
+      "balance": 0,
+      "interestRate": 0.6,
+      "isFrozen": false,
+      "recentTransactions": [],
+      "bank": "Supreme Over Lord's Wallet",
+      "accountNumber": "636718326",
+      "Name": "Jack McNulty",
+      "Currency": "lira"
+    }
+  },
+  "364512977115938816": {
+    "savings": {
+      "balance": 0,
+      "interestRate": 0.6,
+      "isFrozen": false,
+      "recentTransactions": [],
+      "bank": "Supreme Over Lord's Wallet",
+      "accountNumber": "242078800",
+      "Name": "Doctor Meatball",
+      "Currency": "Caps"
+    }
+  },
+  "698199481702809711": {
+    "savings": {
+      "balance": 0,
+      "interestRate": 0.6,
+      "isFrozen": false,
+      "recentTransactions": [],
+      "bank": "HSBC",
+      "accountNumber": "786440854",
+      "Name": "James Forsworn",
+      "Currency": "Units"
+    }
+  },
+  "904156033159659550": {
+    "savings": {
+      "balance": 0,
+      "interestRate": 0.6,
+      "isFrozen": false,
+      "recentTransactions": [],
+      "bank": "B.R.S National Treasury",
+      "accountNumber": "962681164",
+      "Name": "Steel",
+      "Currency": "Lira"
+    }
+  },
+  "1137616800918536195": {
+    "savings": {
+      "balance": 0,
+      "interestRate": 0.6,
+      "isFrozen": false,
+      "recentTransactions": [],
+      "bank": "B.R.S National Treasury",
+      "accountNumber": "578629413",
+      "Name": "Kermit",
+      "Currency": "Lira"
+    }
+  },
+  "726598927951986690": {
+    "savings": {
+      "balance": 0,
+      "interestRate": 0.6,
+      "isFrozen": false,
+      "recentTransactions": [],
+      "bank": "B.R.S National Treasury",
+      "accountNumber": "939649742",
+      "Name": "Jija",
+      "Currency": "Lira"
+    }
+  },
+  "567116828057403412": {
+    "savings": {
+      "balance": 0,
+      "interestRate": 0.6,
+      "isFrozen": false,
+      "recentTransactions": [],
+      "bank": "Credit trading goods",
+      "accountNumber": "583428573",
+      "Name": "Prime Mackey",
+      "Currency": "Credits"
+    }
+  },
+  "742655938967765004": {
+    "savings": {
+      "balance": 0,
+      "interestRate": 0.6,
+      "isFrozen": false,
+      "recentTransactions": [],
+      "bank": "Starling Bank",
+      "accountNumber": "498672782",
+      "Name": "Peter Mitronov",
+      "Currency": "Feresian Ruble"
+    }
+  },
+  "247209774960082945": {
+    "savings": {
+      "balance": 0,
+      "interestRate": 0.6,
+      "isFrozen": false,
+      "recentTransactions": [],
+      "bank": "Prussian National Treasury",
+      "accountNumber": "940162953",
+      "Name": "jack ingof",
+      "Currency": "French Frank"
+    }
+  },
+  "841336466676514927": {
+    "savings": {
+      "balance": 0,
+      "interestRate": 0.6,
+      "isFrozen": false,
+      "recentTransactions": [],
+      "bank": "Legion Kingdom National Bank",
+      "accountNumber": "356327198",
+      "Name": "King Waffle",
+      "Currency": "Dabloon"
+    }
+  },
+  "863533411507109900": {
+    "savings": {
+      "balance": 0,
+      "interestRate": 0.6,
+      "isFrozen": false,
+      "recentTransactions": [],
+      "bank": "HSBC",
+      "accountNumber": "276060531",
+      "Name": "The Opulent Armchair III",
+      "Currency": "The Toart Standard"
+    }
+  }
+}
