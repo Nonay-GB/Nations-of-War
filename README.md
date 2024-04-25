@@ -1,2 +1,8 @@
-# Nations-of-War
-Nations of War Source Code for Minecraft: Java compatibility (Discord.JS NationsRP Bot)
+# About Nations of War
+Nations of War was released on 1st of January 2021 and previously contained much more functionality and was intended to be used on Unturned which was a popular zombie survival game, on the 8th of Feburary 2024, Nonay and Method Gaming (owners of NoW) announced that they would be withdrawing from Unturned and would instead be migrating to Minecraft: Java. However, this quickly came to a close as Nonay (Method Gaming's publisher), closed the project down and finally made the decision to sell off the source code to a trusted buyer. After weeks of searching for a trusted buyer, Method Gaming would give up the search and would release the source code to GitHub, squashing all code into one file without a command handler, creating data files using the FS library and optimizing the code to be used on a personal computer. The code still contains the changes made when Method Gaming planned to port Nations of War to Minecraft: Java
+
+# Lack of Functionality
+Nations of War's source code has had many features stripped, so be very aware of many bugs or many features being unable to function or work as intended!
+
+# What was Nations of War?
+Nations of War was set on a game called Unturned, the official gamemode name was "MG:NW" or "Method Gaming: Nations of War", the gamemode allowed you to create your own country, research technology, spark wars, manage your own economy (which was extremely and realistically simulated prior to the Minecraft: Java port which instead, relied heavily on Minecraft: Java to do all of the heavy work). Nations of War was extremely realistic and allowed players to start businesses whilst electing leaders to lead their country.
